@@ -1,4 +1,4 @@
-# VueServerTepmlate
+# photographer_website
 
 ## Project setup
 
